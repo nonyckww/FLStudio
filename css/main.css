@@ -9,6 +9,11 @@
     color: #c2c2c2;
 }
 
+html {
+    scroll-behavior: smooth;
+
+}
+
 mark {
     padding: 10px;
     background: #262626;
